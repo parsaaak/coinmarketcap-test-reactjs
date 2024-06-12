@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/coinmarketcap-test-reactjs/static/css/main.5ecb955d.css",
+    "main.js": "/coinmarketcap-test-reactjs/static/js/main.eb43d264.js",
+    "static/media/chart-eth.svg": "/coinmarketcap-test-reactjs/static/media/chart-eth.0033cacf31fd862d825c0ca4065b125e.svg",
+    "static/media/btc-chart.svg": "/coinmarketcap-test-reactjs/static/media/btc-chart.320f255d9f99d101c274e7f7a03a7a87.svg",
+    "static/media/eth icon.svg": "/coinmarketcap-test-reactjs/static/media/eth icon.905f2b88d859186abb26b018071f795c.svg",
+    "static/media/btc-icon.svg": "/coinmarketcap-test-reactjs/static/media/btc-icon.64f0058c3a0675432417865cecc1f62c.svg",
+    "static/media/star-icon.svg": "/coinmarketcap-test-reactjs/static/media/star-icon.a6b849f068f740316be2f575f7a393d9.svg",
+    "static/media/Filters icon.svg": "/coinmarketcap-test-reactjs/static/media/Filters icon.9fdd73c208ac5f28e1cfb530d7dd784c.svg",
+    "static/media/Categories icon.svg": "/coinmarketcap-test-reactjs/static/media/Categories icon.73aa3acca918d72a4135111d44320e79.svg",
+    "static/media/list icon.svg": "/coinmarketcap-test-reactjs/static/media/list icon.9f0708640601a283665871042db920a2.svg",
+    "static/media/NFTs icon.svg": "/coinmarketcap-test-reactjs/static/media/NFTs icon.2b3bc6cf98f835f52d793ddbb102d80c.svg",
+    "static/media/Cryptocurrencies icon.svg": "/coinmarketcap-test-reactjs/static/media/Cryptocurrencies icon.19f21a6716647fc0d07dca34ed08edd7.svg",
+    "static/media/tajobIcon.svg": "/coinmarketcap-test-reactjs/static/media/tajobIcon.c16cd44fa3a098208a875f26352b3c38.svg",
+    "static/media/map icon.svg": "/coinmarketcap-test-reactjs/static/media/map icon.5adf3af9970ef240d610275005c87590.svg",
+    "static/media/red-arrow.svg": "/coinmarketcap-test-reactjs/static/media/red-arrow.82d1b8a447282991bf1f1446e2dcb17b.svg",
+    "static/media/green-arrow.svg": "/coinmarketcap-test-reactjs/static/media/green-arrow.92395108f14afb78d49098ce431c4526.svg",
+    "index.html": "/coinmarketcap-test-reactjs/index.html",
+    "static/media/Customize icon.svg": "/coinmarketcap-test-reactjs/static/media/Customize icon.d0b26f39375b12b8bf6d902db9545116.svg",
+    "static/media/white arrow.svg": "/coinmarketcap-test-reactjs/static/media/white arrow.e7eb2ff8e96350b591e6b41f6a4b2212.svg",
+    "main.5ecb955d.css.map": "/coinmarketcap-test-reactjs/static/css/main.5ecb955d.css.map",
+    "main.eb43d264.js.map": "/coinmarketcap-test-reactjs/static/js/main.eb43d264.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecb955d.css",
+    "static/js/main.eb43d264.js"
+  ]
+}
