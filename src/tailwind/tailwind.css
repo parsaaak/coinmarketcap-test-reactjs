@@ -1,0 +1,79 @@
+/* prepration */
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  body {
+    margin: 0px;
+    font-family: "Inter", sans-serif;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin: 0;
+  }
+  a {
+    text-decoration: none;
+    color: unset;
+  }
+  ul,
+  li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  hr{
+    margin: 0;
+  }
+  button{
+    border: 0;
+    background-color: unset;
+  }
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+    .top-bar-font{
+    color: #CFD6E4;
+    font-size: 11px;
+    font-weight: 600;
+    text-align: center;
+    }
+     .font-white{
+    color: #ffff;
+    font-size: 12.5px;
+    font-weight: 500;
+    text-align: center;
+    } 
+    
+    .font-green{
+    color: green;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    } 
+    .font-red{
+    color:red;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    } 
+    
+    .flex-options{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .border-custom{
+    border-top: solid 1px  rgb(50, 53, 70);
+    }
+    .border-bottom-custom{
+    border-bottom: solid 1px  rgb(50, 53, 70);
+    }
+    } 
+    
